@@ -12,5 +12,8 @@
         <module name="ribbon-client" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="feign-client" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
